@@ -3,11 +3,4 @@ galletas en el supermercado a punto de caducar
 
 mocho gustaba de vestir ropas viejas de modas pasadas pero
 odiaba combinar colores cuando usaba trajes
-<<<<<<< HEAD
-<<<<<<< HEAD
-master 1
-master 2
-experimento 2
->>>>>>> 27e6156 (experimento2)
-experimento 1
->>>>>>> 4130928 (experimento1)
+
