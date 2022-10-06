@@ -4,3 +4,11 @@ galletas en el supermercado a punto de caducar
 mocho gustaba de vestir ropas viejas de modas pasadas pero
 odiaba combinar colores cuando usaba trajes
 
+<<<<<<< HEAD
+=======
+cuando viaja en transporte busca sentarse a lado de la ventana
+para doblar sus envolturas y esconderlas entre las ranuras de los marcos
+
+
+textos originales del barón
+>>>>>>> 9bfece5 (Agregado a mocho-marcos de ventana)
