@@ -5,7 +5,10 @@ mocho gustaba de vestir ropas viejas de modas pasadas pero
 odiaba combinar colores cuando usaba trajes
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9bfece5 (Agregado a mocho-marcos de ventana)
 cuando viaja en transporte busca sentarse a lado de la ventana
 para doblar sus envolturas y esconderlas entre las ranuras de los marcos
 
